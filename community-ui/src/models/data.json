@@ -1,0 +1,42 @@
+{
+    "MessageVO": {
+        "id": 199,
+        "fromId": 111,
+        "toId": 145,
+        "conversationId": "111_145",
+        "content": "你好",
+        "status": 1,
+        "createTime": "2019-04-28T07:34:18",
+        "targetUserId": 145,
+        "targetHeaderUrl": "http://images.nowcoder.com/head/145t.png",
+        "targetUsername": "lhh",
+        "unreadCount": 1
+    },
+    "PostVO": {
+        "id": 109,
+        "userId": 101,
+        "title": "因特网求职暖春计划",
+        "content": null,
+        "type": 0,
+        "status": 0,
+        "createTime": "2019-04-04T03:53:36",
+        "commentCount": 0,
+        "score": 0.0,
+        "username": "liubei",
+        "headerUrl": "http://images.nowcoder.com/head/100t.png"
+    },
+    "CommentVO":{
+
+        "id": 104,
+        "userId": 146,
+        "entityType": 1,
+        "entityId": 274,
+        "targetId": 0,
+        "content": "顶起",
+        "status": 0,
+        "createTime": "2019-05-15T03:34:32",
+        "username": "lihonghe",
+        "headerUrl": "http://images.nowcoder.com/head/146t.png",
+        "targetUsername": ""
+    }
+}
